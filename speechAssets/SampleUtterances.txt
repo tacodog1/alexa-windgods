@@ -1,0 +1,21 @@
+OneshotWindIntent get forecast
+OneshotWindIntent get forecast for {Spot}
+OneshotWindIntent get forecast for {Spot} {Date}
+OneshotWindIntent how's the forecast for {Spot} 
+OneshotWindIntent how's the forecast for {Spot} {Date}
+OneshotWindIntent what is the forecast for {Spot} 
+OneshotWindIntent what is the forecast for {Spot} {Date}
+OneshotWindIntent what's the forecast for {Spot} 
+OneshotWindIntent what's the forecast for {Spot} {Date}
+OneshotWindIntent is it blowing at {Spot}
+OneshotWindIntent is it blowing at {Spot} {Date}
+
+OneshotSpotsIntent what are my favorite spots
+OneshotSpotsIntent what kite spots do you know about
+OneshotSpotsIntent what spots
+OneshotSpotsIntent list my favorite spots
+OneshotSpotsIntent get spots
+OneshotSpotsIntent for my spots
+OneshotSpotsIntent for my favorite spots
+OneshotSpotsIntent for my favorite kite spots
+
